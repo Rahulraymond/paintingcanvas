@@ -1,0 +1,32 @@
+body{
+  background-color: lightslategray;
+}
+canvas{
+  border: 2px solid black;
+  
+}
+
+#clear{
+  color: White;
+  background-color: #000;
+  font-size: 18px;
+}
+
+#clear:hover{
+  background-color: Yellow;
+  color: black;
+}
+
+.container{
+  background-color: antiquewhite;
+  padding: 2px 5px 5px 5px;
+  text-align: center;
+  margin: 10px;
+}
+
+.width-height{
+  margin-bottom: 5px;
+  border: 1px solid burlywood;
+  background-color: azure;
+  font-family:cursive;
+}
